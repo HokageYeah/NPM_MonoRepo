@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "common": "workspace:^1.0.0",
+    "common": "workspace:^",
     "vue": "^3.2.47"
   },
   "devDependencies": {
